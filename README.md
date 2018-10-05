@@ -1,2 +1,2 @@
 # testproject
-Test
+Test node.js server app
